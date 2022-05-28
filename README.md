@@ -9,4 +9,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tolik22869&theme=solarized_dark)
 
-![name-of-giphy.gif](https://acegif.com/wp-content/gif/outerspace-6.gif)
+![](https://acegif.com/wp-content/gif/outerspace-6.gif)
