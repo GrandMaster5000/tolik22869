@@ -8,4 +8,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tolik22869&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tolik22869&theme=solarized_dark)
-<img src="https://acegif.com/wp-content/gif/outerspace-6.gif" class="ilightbox-image">
+[<img src="https://acegif.com/wp-content/gif/outerspace-6.gif" class="ilightbox-image">](https://acegif.com/wp-content/gif/outerspace-6.gif)
